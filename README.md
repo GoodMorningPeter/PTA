@@ -1,6 +1,4 @@
-# PTA
-
-Piece-wise two-sample t-test augmented medical image segmentation
+# PTA: Piece-wise two-sample t-test augmented medical image segmentation
 
 ## Project Structure
 ```
