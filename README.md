@@ -60,5 +60,5 @@ PTA
 
 - Automated Cardiac Diagnosis Challenge (ACDC 2017)
 - Type: 3D MRI 
-- Size: about 1GB
+- Size: about 1TB
 - Download link: https://aistudio.baidu.com/aistudio/datasetdetail/56020
